@@ -123,7 +123,7 @@ Response :
     "status" : "string",
     "data" : [
         {
-             "id" : "string, unique",
+              "idStudent" : "string, unique",
               "name" : "string",
               "address" : "string",
               "telephone" : "integer",
@@ -131,7 +131,7 @@ Response :
               "updatedAt" : "date"
         },
         {
-             "id" : "string, unique",
+             "idStudent" : "string, unique",
              "name" : "string",
              "address" : "string",
              "telephone" : "integer",
