@@ -7,7 +7,7 @@ import javax.persistence.Id
 import javax.persistence.Table
 
 @Entity
-@Table(name = "mahasiswa")
+@Table(name = "tb_mahasiswa")
 data class Student(
         @Id
         @Column(name = "id_student")
